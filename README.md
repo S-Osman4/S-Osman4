@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @S-Osman4
-- 👀 I’m interested in programming,video games, anime
-- 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on proects and game development
+- 👋 Hi, I’m @S-Osman4.
+- 👀 I’m interested in programming,web development,data science and video games.
+- 🌱 I’m currently learning computer science.
+- 💞️ I’m looking to collaborate on projects and game development
 - 📫 How to reach me :email: osmanshamso004@gmail.com
 
 <!---
