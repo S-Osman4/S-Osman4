@@ -27,6 +27,5 @@
 
 ### :fire: My stats :
 
-<a><img width="432" img align="left" alt="Alison's Github Stats" src="https://github-readme-stats.vercel.app/api?username=S-Osman4&show_icons=true&theme=gotham" class="responsive" />
-</a>
+
 <a><img width="400" img align="center" alt="TopLang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-Osman4&layout=compact&hide=html&theme=gotham" class="responsive"/></a>
