@@ -4,10 +4,10 @@
 </div>
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/shamso-osman-887b3a212/">
+  <a href="https://www.linkedin.com/in/shamso-osman/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="osmanshamso@gmail.com">
+  <a href="osmanshamso004@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>
@@ -22,7 +22,7 @@
 - 👋 I’m @S-Osman4.
 - 👀 I’m interested in programming,web development,data science and video games.
 - 🌱 I’m currently learning :books: Software Engineering @holbertonschool.
-- 💞️ I’m looking to collaborate on projects and game development
+- 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me :email: [Email](osmanshamso004@gmail.com)
 
 ### :fire: My stats :
